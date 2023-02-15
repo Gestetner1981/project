@@ -16,7 +16,7 @@
         </nav>
         <div>
             <a href="tel:+79356782130">+7 903 999-99-99</a>
-            <button>Заказать звонок</button>
+            <button>Позвонить</button>
         </div>
     </header>
 </body>
