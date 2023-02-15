@@ -12,7 +12,7 @@
         <nav>
             <a href="#services">Услуги</a>
             <a href="#portfolio">Портфолио</a>
-            <a href="#contacts">Контакты</a>
+            <a href="#contacts">Контактная информация</a>
         </nav>
         <div>
             <a href="tel:+79356782130">+7 903 999-99-99</a>
