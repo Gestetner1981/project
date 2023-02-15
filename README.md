@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-i need some sleep
-=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +5,6 @@ i need some sleep
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Смарт-Экспресс — Официальный сайт</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <script src='js/jquery-3.6.0.min.js'></script>
 </head>
 <body>
     <header>
@@ -24,4 +20,3 @@ i need some sleep
     </header>
 </body>
 </html>
->>>>>>> Stashed changes
