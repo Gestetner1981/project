@@ -1,7 +1,3 @@
-enough
-
-<title><Условия доставки><title>
-
 <!DOCTYPE html>
 <html>
 <head>
